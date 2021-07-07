@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/06_Spring_Full_Mode/01_InterBean_Dependancy/01_InterBean_Dependancy.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/06_Spring_Full_Mode/01_InterBean_Dependancy/01_InterBean_Dependancy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/07_Spring_Light_Mode/01_InterBean_Dependency_Light_Mode/01_InterBean_Dependency_Light_Mode.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/07_Spring_Light_Mode/01_InterBean_Dependency_Light_Mode/01_InterBean_Dependency_Light_Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/01_InterFaceThought_Injection/01_InterFaceThought_Injection.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/01_InterFaceThought_Injection/01_InterFaceThought_Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/01_Sprinp/01_Sprinp.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/01_Sprinp/01_Sprinp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/02_Setter_Method_Injection/02_Setter_Method_Injection.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/02_Setter_Method_Injection/02_Setter_Method_Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/02_Spring/02_Spring.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/02_Spring/02_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/03_Constructor_Thought_Injection/03_Constructor_Thought_Injection.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/03_Constructor_Thought_Injection/03_Constructor_Thought_Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/03_Spring_Life_Cycle/03_Spring_Life_Cycle.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/03_Spring_Life_Cycle/03_Spring_Life_Cycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/04_Manage_LifeCycle/04_Manage_LifeCycle.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/04_Manage_LifeCycle/04_Manage_LifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/04_Property_Injection/04_Property_Injection.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/04_Property_Injection/04_Property_Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/06_Spring_Full_Mode/06_Spring_Full_Mode.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/06_Spring_Full_Mode/06_Spring_Full_Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/07_Spring_Light_Mode/07_Spring_Light_Mode.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/07_Spring_Light_Mode/07_Spring_Light_Mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/08_Spring_Configuration/08_Spring_Configuration.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/08_Spring_Configuration/08_Spring_Configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/09_Sprint_XML_Configuration_/09_Sprint_XML_Configuration_.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/09_Sprint_XML_Configuration_/09_Sprint_XML_Configuration_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/10_Spring_RuntimeValue_Injection/10_Spring_RuntimeValue_Injection.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/10_Spring_RuntimeValue_Injection/10_Spring_RuntimeValue_Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/11_Spring_System_Property/11_Spring_System_Property.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/11_Spring_System_Property/11_Spring_System_Property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/12_Spring_WEB_MVC/12_Spring_WEB_MVC.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/12_Spring_WEB_MVC/12_Spring_WEB_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/DI_Problem_Slow/DI_Problem_Slow.iml" filepath="$PROJECT_DIR$/Spring_IJSE_Lecture_HomeWork/05_Spring_Dependency_Injection/DI_Problem_Slow/DI_Problem_Slow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring Core.iml" filepath="$PROJECT_DIR$/.idea/Spring Core.iml" />
+    </modules>
+  </component>
+</project>
